@@ -1,0 +1,10 @@
+.top {
+  background-color: cadetblue;
+  color: red;
+}
+
+.sub-heading {
+  color: green;
+  background-color: pink;
+  font-size: 3em;
+}
